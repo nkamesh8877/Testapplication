@@ -28,7 +28,7 @@
 <body>
     <b><center>
     <font phase="Times New Roman"color="white" size="20%">
-    CAPSTONE PROJECT BY CS691 </b><br>
+    CAPSTONE PROJECT BY CS691 pace </b><br>
     </font>
     <center><br>
 	
